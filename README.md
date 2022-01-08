@@ -32,10 +32,10 @@ En este proyecto se manejó todo lo relacionado en cuanto a Drawables, TextView,
 
 
     
-    ## Base de datos
-    Firebase database
+## Base de datos
+Firebase database
     
-    Esta aplicación es totalmente administrable de tal forma que cuenta con una plataforma web donde se puede realizar las operaciones CRUD para el muestreo de la información dentro de la App
+Esta aplicación es totalmente administrable de tal forma que cuenta con una plataforma web donde se puede realizar las operaciones CRUD para el muestreo de la información dentro de la App
     
     ![Imagen](https://github.com/NorbeyCollazos/CenturHuila/blob/master/screens/img1.jpg)
     ![Imagen](https://github.com/NorbeyCollazos/CenturHuila/blob/master/screens/img2.jpg)
