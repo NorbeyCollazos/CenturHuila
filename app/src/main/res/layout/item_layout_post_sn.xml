@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                                    android:layout_marginLeft="20dp"
+                                    android:layout_marginRight="20dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:layout_marginTop="10dp"
+                                    android:id="@+id/post_cardview"
+                                    app:contentPadding="0dp"
+                                    app:cardElevation="4dp"
+                                    android:clickable="true"
+                                    android:foreground="?android:attr/selectableItemBackground"
+
+    >
+
+    <RelativeLayout
+        android:id="@+id/relasn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <com.wang.avi.AVLoadingIndicatorView
+            android:id="@+id/avi2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            style="@style/AVLoadingIndicatorView"
+            android:visibility="visible"
+            android:layout_marginLeft="15dp"
+            app:indicatorName="BallClipRotateIndicator"
+            app:indicatorColor="#fff"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/post_iv"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@android:color/darker_gray"
+            android:layout_centerVertical="true"
+            android:layout_margin="0dp"
+            >
+
+        </de.hdodenhof.circleimageview.CircleImageView>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="Titulo"
+            android:id="@+id/post_nombre"
+            android:layout_toRightOf="@+id/post_iv"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/colorTitulo"
+            android:textStyle="bold"/>
+        <TextView
+            android:id="@+id/post_direccion"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:text="Descripcion del titulo"
+            android:layout_toRightOf="@+id/post_iv"
+            android:layout_below="@+id/post_nombre"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/colorTitulo"/>
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

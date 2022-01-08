@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#009688</color>
+
+
+
+    <color name="colorFondo">#BBDEFB</color>
+    <color name="colorFondo2">#fff</color>
+    <color name="colorFondo3">#BBDEFB</color>
+
+
+
+
+    <color name="colorPrimaryAgrado">#2196f3</color>
+    <color name="colorPrimaryDarkAgrado">#1976d2</color>
+    <color name="colorAccentAgrado">#2962ff</color>
+    <color name="colorTargetAgrado">#e3f2fd</color>
+
+    <color name="colorPrimaryAltamira">#ff9800</color>
+    <color name="colorPrimaryDarkAltamira">#f57c00</color>
+    <color name="colorAccentAltamira">#ff6d00</color>
+    <color name="colorTargetAltamira">#fff3e0</color>
+
+    <color name="colorPrimaryGarzon">#9c27b0</color>
+    <color name="colorPrimaryDarkGarzon">#7b1fa2</color>
+    <color name="colorAccentGarzon">#aa00ff</color>
+    <color name="colorTargetGarzon">#f3e5f5</color>
+
+    <color name="colorPrimaryGigante">#4caf50</color>
+    <color name="colorPrimaryDarkGigante">#388e3c</color>
+    <color name="colorAccentGigante">#00c853</color>
+    <color name="colorTargetGigante">#e8f5e9</color>
+
+
+    <color name="colorPrimaryGuadalupe">#e91e63</color>
+    <color name="colorPrimaryDarkGuadalupe">#c2185b</color>
+    <color name="colorAccentGuadalupe">#c51162</color>
+    <color name="colorTargetGuadalupe">#fce4ec</color>
+
+    <color name="colorPrimaryPital">#8bc34a</color>
+    <color name="colorPrimaryDarkPital">#689f38</color>
+    <color name="colorAccentPital">#64dd17</color>
+    <color name="colorTargetPital">#f1f8e9</color>
+
+    <color name="colorPrimarySuaza">#ff5722</color>
+    <color name="colorPrimaryDarkSuaza">#e64a19</color>
+    <color name="colorAccentSuaza">#dd2c00</color>
+    <color name="colorTargetSuaza">#fbe9e7</color>
+
+    <color name="colorPrimaryTarqui">#03a9f4</color>
+    <color name="colorPrimaryDarkTarqui">#0288d1</color>
+    <color name="colorAccentTarqui">#0091ea</color>
+    <color name="colorTargetTarqui">#e1f5fe</color>
+
+    <color name="colorFondo22">#ff5722</color>
+    <color name="colorFondo222">#e8f5e9</color>
+    <color name="colorFondo32">#81c784</color>
+
+
+
+
+    <color name="colorFondoOpaco">#66000000</color>
+
+    <color name="colorBoton">#727272</color>
+    <color name="colorStitulo">#d8d8d8</color>
+    <color name="colorTitulo">#161616</color>
+
+    <color name="verde_oscuro">#8f5600</color>
+    <color name="violeta">#036101</color>
+
+    <color name="azul_oscuro">#010148</color>
+    <color name="azul_medio">#2929c4</color>
+    <color name="azul_claro">#5e9ef7</color>
+    <color name="colorFond">#d4cfd1</color>
+    <color name="BlancoOscuro">#e7e7e7</color>
+    <color name="BlancoClaro">#ffffff</color>
+
+
+
+
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:layout_marginBottom="10dp"
+    android:layout_marginTop="10dp"
+    android:id="@+id/post_cardview"
+    app:contentPadding="0dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/relatfiesta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/imglogoinfo"
+            android:layout_width="60dp"
+            android:layout_height="70dp"
+            android:src="@drawable/ic_fiesta"
+            android:layout_toRightOf="@+id/flecha"
+            android:layout_marginLeft="8dp"/>
+
+        <TextView
+            android:id="@+id/tvtitulofiesta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Festival del café"
+            android:textColor="@color/colorTitulo"
+            android:textStyle="bold"
+            android:layout_toRightOf="@+id/imglogoinfo"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:textSize="25sp"/>
+
+        <TextView
+            android:id="@+id/tvmesfiesta"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:text="Descripcion de las festividades"
+            android:textColor="@color/colorTitulo" />
+    </RelativeLayout>
+
+
+
+    </RelativeLayout>
+
+
+
+
+</androidx.cardview.widget.CardView>

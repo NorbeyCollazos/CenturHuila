@@ -1,0 +1,134 @@
+<resources>
+    <string name="app_name">CenturHuila</string>
+
+    <string name="mate">Material</string>
+    <string name="inmate">Inmaterial</string>
+    <string name="smate">Atractivos materiales</string>
+    <string name="sinmate">Eventos inmateriales</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!-- Strinnes de titulo de actividades (no es necesario traducir) -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_municipios">Municipios</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sitios_natura_les">SitiosNaturaLes</string>
+    <string name="title_activity_lista_ensallo">ListaEnsallo</string>
+    <string name="title_activity_desc_hotel">DescHotel</string>
+    <string name="title_activity_desc_restaurante">DescRestaurante</string>
+
+
+    <string name="imagenes">Imagens</string>
+    <string name="menscall">Você quer ligar para o restaurante</string>
+    <string name="call">Chamar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="menspagina">¿Você quer visitar o site do restaurante</string>
+    <string name="visit">Visitar</string>
+    <string name="menscorreo">¿Desea enviar correo al restaurante</string>
+    <string name="send">Enviar</string>
+    <string name="chosegmail">Elegir Gmail</string>
+    <string name="nocli">No hay ningun cliente de correo instalado.</string>
+    <string name="menscallh">Você quer ligar para o hotel</string>
+    <string name="menspaginah">¿Desa visitar la página oficial del hotel</string>
+    <string name="menscorreoh">¿Desea enviar correo al hotel</string>
+    <string name="noconect">Você não tem uma conexão com a internet</string>
+
+    <!-- Strins de actividad categorias-->
+    <string name="info">Informação</string>
+    <string name="sn">Sites Naturais</string>
+    <string name="cultura">Cultura</string>
+    <string name="fiestas">Festividades</string>
+    <string name="hoteles">Hotéis</string>
+    <string name="restaurantes">Restaurantes</string>
+
+    <!-- Strins de actividad informacion categoria-->
+    <string name="dg">Dados gerais:</string>
+    <string name="temp">Temperatura:</string>
+    <string name="altura">Altura:</string>
+    <string name="poblacion">População:</string>
+    <string name="gentilicio">Gentilicio:</string>
+    <string name="desc">Descrição:</string>
+    <string name="Hh">Fatos históricos:</string>
+    <string name="ubi">Localização:</string>
+    <string name="coor">Coordenadas:</string>
+    <string name="dep">Departamento:</string>
+    <string name="subr">Sub-região:</string>
+    <string name="vt">Via terrestre:</string>
+    <string name="va">Via aérea:</string>
+
+    <!-- Strins de actividad descsitionatural-->
+    <string name="dbasic">Dados básicos</string>
+    <string name="rs">Lembre-se sempre:</string>
+    <string name="dir">Endereço:</string>
+    <string name="po">Página oficial:</string>
+    <string name="tel">Telefone:</string>
+    <string name="correo">Mail:</string>
+    <string name="disp">Disponible:</string>
+    <string name="cerrar">Fechar</string>
+    <string name="contacto">Entre em contato</string>
+    <string name="servicio">Serviço</string>
+    <string name="ruta">Rota</string>
+    <string name="llamando">Chamando, por favor espere........</string>
+    <string name="especialidad">Especialidade</string>
+    <string name="recomendaciones">Recomendações</string>
+    <string name="historia">História</string>
+    <string name="cll">Como chegar</string>
+    <string name="gastro">Gastronomia</string>
+    <string name="mitologia">Mitología</string>
+    <string name="personajes">Personajes</string>
+    <string name="politica">Política</string>
+    <string name="monumentos">Monumentos</string>
+    <string name="parques">Parques</string>
+    <string name="iglesias">Iglesias</string>
+    <string name="otros">Otros</string>
+    <string name="title_activity_maps_municipios">Map</string>
+    <string name="ayuda">Ajuda</string>
+    <string name="idioma">Idioma</string>
+    <string name="acerca">Sobre...</string>
+    <string name="desa">Desenvolvedores</string>
+    <string name="cambiodio">Alterar idioma</string>
+    <string name="manual">Manual de usuário</string>
+    <string name="material">Material</string>
+    <string name="vereda">Corregimiento, Vereda ou Localização:</string>
+    <string name="propi">Administrador ou Proprietário:</string>
+    <string name="indica">Iniciações para acesso:</string>
+    <string name="patriMI">Patrimônio material e intangível</string>
+    <string name="lac">Latitude:</string>
+    <string name="lon">Comprimento:</string>
+    <string name="ver">Ver mais</string>
+    <string name="oasis">Oásis da paz</string>
+    <string name="tierra">A terra do pão de ló</string>
+    <string name="capi">Capital Diocesana</string>
+    <string name="cacao">Capital de cacau</string>
+    <string name="eden">Éden da paz</string>
+    <string name="ruises">Ruiseñor del Huila</string>
+    <string name="sigui">Próximo</string>
+    <string name="fin">Terminar</string>
+    <string name="descmanual">BAIXAR MANUAL DO USUÁRIO</string>
+
+    <string name="programadores">Programadores</string>
+    <string name="analista">Analista</string>
+    <string name="texter">Texter</string>
+    <string name="dise">Desenhista</string>
+    <string name="instru">Instrutores</string>
+    <string name="calif">Avalie-nos na Play Store</string>
+    <string name="equidesa">Equipe de desenvolvedores</string>
+    <string name="proposito">O aplicativo CenturHuila tem como objetivo divulgar os sites mais representativos dos municípios de Agrado, Altamira, Garzón, Gigante, Guadalupe, Pital, Tarqui e Suaza que compõem o centro do departamento de Huila.</string>
+    <string name="bienvenido">Bem vindo</string>
+    <string name="slogan">Turismo para minha região !!</string>
+    <string name="prininfo">Você vai encontrar informações turísticas dos municípios de Agrado, Altamira, Garzón, Gigante, Guadalupe, Pital, Suaza e Tarqui</string>
+    <string name="mapa">Mapa</string>
+    <string name="descmaps">Mapa onde você vai encontrar a localização de cada um dos municípios, bem como hotéis e restaurantes</string>
+    <string name="mensactivar">Permitir que o CenturHuila acesse sua localização?</string>
+    <string name="gpsac">ATIVAR O LOCAL</string>
+    <string name="ACTIVAR">Permitir</string>
+    <string name="NOPER">Não permitir</string>
+    <string name="estoy">ESTOU AQUI</string>
+    <string name="DESCMYUBI">Esta é minha localização atual</string>
+    <string name="mensactivarrr">Para poder ver o mapa, você deve permitir permissões de localização</string>
+    <string name="impo">Importante!!</string>
+    <string name="mensactivarrrll">Você deve dar permissão para este aplicativo fazer chamadas</string>
+
+
+</resources>

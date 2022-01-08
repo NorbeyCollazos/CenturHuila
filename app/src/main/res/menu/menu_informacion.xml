@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/informacionItemInf"
+        android:title="@string/info"
+        android:enabled="true"
+        android:icon="@drawable/ic_info"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/imagenesItemInf"
+        android:title="@string/imagenes"
+        android:enabled="true"
+        android:icon="@drawable/ic_image"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/historiaItemInf"
+        android:title="@string/historia"
+        android:enabled="true"
+        android:icon="@drawable/ic_historia"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/rutaItemInf"
+        android:title="@string/ruta"
+        android:enabled="true"
+        android:icon="@drawable/ic_gps"
+        app:showAsAction="ifRoom"/>
+</menu>
