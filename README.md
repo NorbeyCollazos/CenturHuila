@@ -4,7 +4,8 @@ App móvil para de turismmo - Desarrollada en Android Studio lenguaje Java
 En este proyecto se manejó todo lo relacionado en cuanto a Drawables, TextView, CardView, RecyclerView, Adapters, Modelos, base de datos Firebase
 
 ## Librerias
-	```
+
+```
     implementation 'com.google.firebase:firebase-database:17.0.0'
     implementation 'com.google.firebase:firebase-storage:17.0.0'
     implementation 'com.google.firebase:firebase-messaging:20.2.3'
@@ -29,7 +30,7 @@ En este proyecto se manejó todo lo relacionado en cuanto a Drawables, TextView,
     implementation 'com.sa90.materialarcmenu:library:1.4' //libreria para menu botom animado
     implementation 'com.getbase:floatingactionbutton:1.10.1'
 		
-	```
+```
     
     ## Base de datos
     Firebase database
