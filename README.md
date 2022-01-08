@@ -31,6 +31,7 @@ En este proyecto se manejó todo lo relacionado en cuanto a Drawables, TextView,
     implementation 'com.getbase:floatingactionbutton:1.10.1'
 		
 ```
+
     
     ## Base de datos
     Firebase database
